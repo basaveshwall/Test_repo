@@ -6,6 +6,7 @@ public class Hello_world {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Welcome to new project for testing..!");
+		System.out.println("Adding extra line");
 
 	}
 
